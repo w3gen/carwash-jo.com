@@ -32,7 +32,7 @@ $con = mysqli_connect("host","username","password","database");
 6. You are all set to use the Car Wash Management System
 
 ### Contribution
-<img src="https://avatars.githubusercontent.com/u/12073883?v=4" alt="Avatar Asiri H" width="64"/> Asiri H (https://github.com/asirihewage)
+<img src="https://avatars.githubusercontent.com/u/12073883?v=4" alt="Avatar Asiri H" width="64"/> Asiri H [Hire Me](https://www.freelancer.com/get/asirihewage?f=give)
 
 ### TODO
 - support multiple users from frontend
